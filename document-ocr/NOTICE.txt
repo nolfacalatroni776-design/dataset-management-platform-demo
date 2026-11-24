@@ -1,0 +1,1 @@
+Tesseract.js 6.0.1, tesseract.js-core 6.x (Apache-2.0) and eng / chi_sim integer language data from @tesseract.js-data 1.0.0 (tessdata_best; Apache-2.0). These assets are served only when a PDF page requires OCR. Source: https://github.com/naptha/tesseract.js and https://github.com/tesseract-ocr/tessdata_best.
